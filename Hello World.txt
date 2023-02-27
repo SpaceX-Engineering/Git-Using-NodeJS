@@ -1,1 +1,2 @@
 Preparing to upload code on GIT
+do some tasks
