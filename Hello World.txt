@@ -1,2 +1,2 @@
-Preparing to upload code on GIT
-do some tasks
+hello-world
+Practice GIT
